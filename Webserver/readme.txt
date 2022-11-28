@@ -1,4 +1,4 @@
-The GReg algorithm expects 4 input:
+The GReg algorithm expects 4 inputs:
 One file path that contains one pure DNA sequence inside
 Maximum loop length allowed for the G-quadruplex (suggested from 1 to 10)
 Maximum bulge length allowed for the G-quadruplex (suggested from 0 to 4)
