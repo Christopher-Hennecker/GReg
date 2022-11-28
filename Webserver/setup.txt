@@ -1,0 +1,5 @@
+### you need to packages for this program to run
+### in terminals enter the following two commands separately
+
+pip install numpy
+pip install median
